@@ -1,2 +1,2 @@
 # full-stack
-this my full stack git repository
+this my full stack Git Repository
